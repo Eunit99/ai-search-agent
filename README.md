@@ -118,4 +118,4 @@ SQL databases organize data into structured tables with predefined schemas...
 
 - **Full-Stack Next.js Application**: [github.com/Eunit99/realtime-search](https://github.com/Eunit99/realtime-search)
 - **Live Demo**: [realtime-search.vercel.app](https://realtime-search.vercel.app/)
-- **Tutorial Guide**: [Building a Real-Time AI Search Agent with SearchApi and OpenAI](https://eunit.me)
+- **Tutorial Guide**: [Building a Real-Time AI Search Agent with SearchApi and OpenAI](http://eunit.me/blog/building-a-real-time-ai-search-agent-with-searchapi-and-openai)
